@@ -44,8 +44,9 @@ This project explores HR data to uncover **key drivers behind employee turnover.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
+[Download Power BI Dashboard](dashboard/HR%20Attrition%20Dashboard.pbix)
 ---
 
 ## 💡 Final Thought
